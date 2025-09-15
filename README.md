@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mara009
-- 👀 I’m interested in women sport and technology
+- 👀 I’m interested in sports and technology projects
 - 🌱 I’m currently learning Data Science, SQL and Python
 - 💞️ I’m looking to collaborate on social projects about sport and women
 - 📫 How to reach me ...
