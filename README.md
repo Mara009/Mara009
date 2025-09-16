@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Mara009
 - 👀 I’m interested in sports and technology projects
-- 🌱 I’m currently learning Data Science, SQL and Python
+- 🌱 I’m currently learning Data Science, Mahicne Learning and buildinng APP's
 - 💞️ I’m looking to collaborate on social projects about sport and women
 - 📫 How to reach me ...
-- 😄 Pronouns: Woman
 - ⚡ Fun fact: I play (almost) all sports ;-)
 
 <!---
