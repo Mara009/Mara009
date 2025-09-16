@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mara009
+- 👋 Hi, I’m @Mara009 - with Licence to Create
 - 👀 I’m interested in sports and technology projects
 - 🌱 I’m currently learning Data Science, Mahicne Learning and buildinng APP's
 - 💞️ I’m looking to collaborate on social projects about sport and women
